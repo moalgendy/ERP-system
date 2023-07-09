@@ -1,0 +1,22 @@
+{
+    "InfixBiometrics": {
+        "item_id": "10114142",
+        
+        "migration": {
+            "infix_bio_settings": "Modules/InfixBiometrics/Database/Migrations/2020_01_01_100001_create_infix_bio_settings_table.php",
+            "device_log" : "Modules/InfixBiometrics/Database/Migrations/2020_02_25_100003_create_device_log_table.php",
+            "no_table" : "Modules/InfixBiometrics/Database/Migrations/2022_05_27_101907_add_exit_time_to_attendances_table.php"
+        },
+        "names": [
+        ],
+        "versions": [
+            "1.0.0"
+        ],
+        "url": [
+            "https://spondonit.com/contact"
+        ],
+        "notes": [
+            "This is InfixBiometrics Module. Thanks for using."
+        ]
+    }
+}
